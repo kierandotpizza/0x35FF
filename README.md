@@ -13,6 +13,11 @@ Over the last few years, I have taken myself out of the corporate roles, where I
   
 
 Alongside side this, I am a development team lead at Semestry, where I am leading one of the teams building the UK's #1 timetabling tool for the education industry and loving every minute of it. If you want to learn more about Semestry and the products we provide, check out [their website here.](https://semestry.com)  
+
+
+Want to view my latest posts? Check out [my website here](https://0x35ff.tech). My latest posts are also here:
+- [How I built the Twitter account @nsanames (Part 1)](https://0x35ff.tech/post/building-nsanames-twitter-bot/)
+- [Beautiful Gradient Text in TailwindCSS](https://0x35ff.tech/post/tailwindgradients/)
   
 
 <br/>  
