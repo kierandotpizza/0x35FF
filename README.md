@@ -7,8 +7,8 @@
   
 
 Over the last few years, I have taken myself out of the corporate roles, where I would spend all of my time working inside private repositories, and now focus on building Open-Source and useful products for everyone to use, including:
+- [Birdy](https://github.com/getbirdy) open-source Laravel based CMS.
 - [TheiaLinux](https://github.com/theialinux) an Offensive Security Docker environment.
-- [GHProfile](https://github.com/0x35ff/profile) a full featured GitHub Profile Generator and Manager.
 - Plus a lot of open-source packages located at [Wavey](https://github.com/waveygroup).  
   
 
